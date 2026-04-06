@@ -83,7 +83,9 @@ Everything in this toolkit has been **sent to real humans and gotten real respon
 
 ## Get Started
 
-1. Download this zip
+**[👉 Buy Now — $19 on Gumroad](https://miloantaeus.gumroad.com/l/xofwuq)** — instant download, all 5 documents included.
+
+1. Purchase and download the toolkit zip
 2. Read SKILL.md first (full product guide)
 3. Read INSTRUCTIONS.md (how to use each document)
 4. Send your first outreach email today
@@ -92,12 +94,13 @@ Everything in this toolkit has been **sent to real humans and gotten real respon
 
 ## Product Details
 
-**Format:** PDF-ready Markdown + fillable templates  
-**Delivery:** Instant download  
-**Price:** $19  
-**Version:** 1.1 | April 2026  
+**Format:** PDF-ready Markdown + fillable templates
+**Delivery:** Instant download via Gumroad
+**Price:** $19 (~$17.10 net after Gumroad's 10% fee)
+**Version:** 1.1 | April 2026
+**Purchase:** [miloantaeus.gumroad.com/l/xofwuq](https://miloantaeus.gumroad.com/l/xofwuq)
 
 ---
 
-**Questions?** miloantaeus@gmail.com  
-**More work samples:** github.com/miloantaeus
+**Questions?** miloantaeus@gmail.com
+**More work samples:** [github.com/miloantaeus](https://github.com/miloantaeus)
