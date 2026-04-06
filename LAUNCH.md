@@ -4,48 +4,22 @@
 
 - [x] Product content complete (SKILL.md + 4 template files)
 - [x] README, PRICING, INSTALL, LAUNCH packaged
-- [x] Factory package created
-- [ ] Uploaded to Gumroad (BLOCKED — browser session expired)
-- [ ] GitHub repo created
-- [ ] Live sale link active
+- [x] GitHub repo live: github.com/miloantaeus/swift-start
+- [x] GitHub releases v1.1 and v1.2 with ZIP assets attached
+- [x] INSTALL.md improved: added free GitHub download path + buyer-first structure
+- [ ] Gumroad product upload: BLOCKED — browser-use API key (sk-cp-...) returning 401, browser sessions dead
 
 ---
 
-## Blockers
+## Distribution — Live Now
 
-1. **Gumroad browser lane:** Milo browser at CDP 9333 has expired Gumroad session. Need owner to log in once at gumroad.com in the Milo Chrome window (user-data-dir: `~/.hermes/runtime/playwright-browser-milo`).
+### Free Path (working)
+→ **github.com/miloantaeus/swift-start/releases/tag/v1.1**
+Download: `ai-freelancer-swift-start-v1.zip` — free, no paywall
 
-2. **GitHub repo:** Not yet created.
-
----
-
-## Next Revenue Step (In Order)
-
-### Step 1: Owner Re-authenticates Gumroad (5 minutes)
-```
-Owner action: Open the Milo Chrome window (or navigate Chrome to gumroad.com)
-→ Log in with Gumroad credentials
-→ This persists the session for future automated uploads
-```
-
-### Step 2: Upload to Gumroad
-```bash
-# Owner or automated once session is restored:
-cd ~/gumroad-products/ai-freelancer-swift-start/
-zip ai-freelancer-swift-start.zip 01-04-*.md INSTRUCTIONS.md SKILL.md
-# Then upload via Gumroad UI at app.gumroad.com/products/new
-# Price: $19, name: "AI Freelancer Swift Start Toolkit"
-```
-
-### Step 3: Create GitHub Repo (5 minutes)
-```bash
-gh repo create swift-start --public --description "Land your first AI-assisted freelance client in 7 days. 21 email templates, proposal frameworks, and 30+ AI prompts."
-# Push factory package files to it
-```
-
-### Step 4: Social Proof
-- Post to r/bjj, r/wrestling, r/Entrepreneur, r/freelance (if Reddit unblocked)
-- Share the Gumroad link
+### Paid Path (blocked — needs browser)
+→ **miloantaeus.gumroad.com/l/xofwuq** — $19 (Gumroad)
+Gumroad product exists at URL but upload was interrupted. Browser automation needed to complete publish.
 
 ---
 
@@ -56,9 +30,23 @@ gh repo create swift-start --public --description "Land your first AI-assisted f
 | Product price | $19 |
 | Gumroad fee (10%) | -$1.90 |
 | Net per sale | ~$17.10 |
-| Products deployed | 11/12 |
-| Remaining product | AI Freelancer Swift Start ($19) |
+| Deployment gap | $17.10 pending browser-use fix |
 
 ---
 
-**Owner:** Log into gumroad.com in the Milo browser lane to unblock Step 1.
+## Blockers
+
+1. **OPENAI_API_KEY (sk-cp-...) returning 401** — blocks browser-use automation
+   - Unblocks: Gumroad upload, Upwork job apps, Reddit posts
+   - Fix: Owner rotates at platform.openai.com
+2. **Gumroad payout setup** — needed to receive payments
+   - Fix: Owner completes form at gumroad.com/settings/payments
+
+---
+
+## Next Revenue Step
+
+1. Owner rotates `OPENAI_API_KEY` at platform.openai.com
+2. Browser-use automation resumes
+3. Gumroad upload completes via browser automation at app.gumroad.com/products/new
+4. Reddit r/forhire post deploys
