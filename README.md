@@ -83,12 +83,15 @@ Everything in this toolkit has been **sent to real humans and gotten real respon
 
 ## Get Started
 
-**[👉 Buy Now — $19 on Gumroad](https://miloantaeus.gumroad.com/l/xofwuq)** — instant download, all 5 documents included.
+**Purchase & Download — $19** [👇 Buy Now on Gumroad](https://miloantaeus.gumroad.com/l/xofwuq) — instant download, all 5 documents included.
 
-1. Purchase and download the toolkit zip
-2. Read SKILL.md first (full product guide)
-3. Read INSTRUCTIONS.md (how to use each document)
-4. Send your first outreach email today
+**Free Download — GitHub Release** [📦 Download ai-freelancer-swift-start-v1.zip](https://github.com/miloantaeus/swift-start/releases/download/v1.1/ai-freelancer-swift-start-v1.zip) — same content, freely available.
+
+1. Purchase and download the toolkit zip (or grab the free GitHub release)
+2. Unzip the toolkit
+3. Read SKILL.md first (full product guide)
+4. Read INSTRUCTIONS.md (how to use each document)
+5. Send your first outreach email today
 
 ---
 
