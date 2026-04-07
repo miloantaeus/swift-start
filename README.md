@@ -3,6 +3,16 @@
 
 ---
 
+## Try It Free — Download the Complete Toolkit Now
+
+**[📦 Download ai-freelancer-swift-start-v1.1.zip — 100% Free](https://github.com/miloantaeus/swift-start/releases/download/v1.2/ai-freelancer-swift-start-v1.1.zip)**
+
+The zip includes all 5 documents — 21 email templates, proposal frameworks, client qualification checklist, AI prompt library, and positioning playbook. No signup, no paywall.
+
+**Like it?** [Upgrade to the $19 Gumroad version](https://miloantaeus.gumroad.com/l/xofwuq) — same content, faster download, supports continued toolkit development.
+
+---
+
 ## The Problem
 
 You have AI skills. You want freelance income. But:
@@ -27,9 +37,10 @@ You have AI skills. You want freelance income. But:
 
 ---
 
-## Real Examples From the Toolkit
+## Sneak Peek — 3 Templates From Inside the Toolkit
 
-**Cold email opener that gets replies:**
+### Cold email opener (template #1 from the 21-Day Outreach Sprint):
+
 > Subject: Quick question about your [specific pain from their LinkedIn/job posting]
 >
 > Hi [Name],
@@ -39,13 +50,42 @@ You have AI skills. You want freelance income. But:
 > Happy to share what worked — no strings attached.
 >
 > Best,
-> Milo
+> [Your name]
 
-**How to price your first freelance service:**
-- Research/report: $50–$150 (fast turnaround, high volume)
-- Grant proposal: $75–$500 (specialized, fewer clients, higher margins)
-- Technical writing: $40–$400 (取决于 complexity)
-- Data analysis: $30–$300 (deliverable-heavy)
+### Proposal framework for a medium project ($200–$1,000):
+
+1. **Understanding of their situation** (2–3 sentences showing research)
+2. **Scope of work** (bullet list of deliverables)
+3. **Process/timeline** (week by week or phase by phase)
+4. **Investment** (priced option or range)
+5. **Terms** (50% upfront, 50% on completion)
+6. **Next steps** (schedule call or send contract)
+
+### Client qualification checklist — score each lead 1–5:
+
+- Has a problem you can solve
+- Has budget ("What's your budget for this?")
+- Has timeline ("When do you need this by?")
+- Can make the decision (or knows who can)
+- Warm connection (referral, mutual, or researched their specific situation)
+
+**Score 18+:** Top priority — respond within 2 hours
+**Score 12–17:** Schedule a call — respond within 24 hours
+**Score below 12:** Low priority — nurture sequence only
+
+---
+
+## Pricing Benchmarks Included
+
+Use these to set your rates (from the Service Positioning Playbook):
+
+| Service | Fast Deliver | Standard | Complex |
+|---------|-------------|----------|---------|
+| Research Report | $50 | $150 | $300+ |
+| Grant Proposal | $75 | $250 | $500+ |
+| Technical Writing | $40 | $120 | $400+ |
+| Data Analysis | $30 | $100 | $300+ |
+| AI Automation Audit | $35 | $100 | $250+ |
 
 ---
 
@@ -83,23 +123,25 @@ Everything in this toolkit has been **sent to real humans and gotten real respon
 
 ## Get Started
 
-**Purchase & Download — $19** [👇 Buy Now on Gumroad](https://miloantaeus.gumroad.com/l/xofwuq) — instant download, all 5 documents included.
-
-**Free Download — GitHub Release** [📦 Download ai-freelancer-swift-start-v1.zip](https://github.com/miloantaeus/swift-start/releases/download/v1.1/ai-freelancer-swift-start-v1.zip) — same content, freely available.
-
-1. Purchase and download the toolkit zip (or grab the free GitHub release)
+### Free — Instant Download (same content as paid)
+1. [Download ai-freelancer-swift-start-v1.1.zip](https://github.com/miloantaeus/swift-start/releases/download/v1.2/ai-freelancer-swift-start-v1.1.zip)
 2. Unzip the toolkit
-3. Read SKILL.md first (full product guide)
-4. Read INSTRUCTIONS.md (how to use each document)
+3. Read `SKILL.md` first (full product guide)
+4. Read `INSTRUCTIONS.md` (how to use each document)
 5. Send your first outreach email today
+
+### Paid — Faster Download + Supports Development ($19)
+[Buy on Gumroad](https://miloantaeus.gumroad.com/l/xofwuq) — instant download, same 5 documents included.
+
+*(Gumroad takes a 10% fee — ~$17.10 net per sale)*
 
 ---
 
 ## Product Details
 
 **Format:** PDF-ready Markdown + fillable templates
-**Delivery:** Instant download via Gumroad
-**Price:** $19 (~$17.10 net after Gumroad's 10% fee)
+**Delivery:** Instant download (GitHub free or Gumroad paid)
+**Price:** $19 via Gumroad | Free via GitHub
 **Version:** 1.1 | April 2026
 **Purchase:** [miloantaeus.gumroad.com/l/xofwuq](https://miloantaeus.gumroad.com/l/xofwuq)
 
