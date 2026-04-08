@@ -124,7 +124,7 @@ Everything in this toolkit has been **sent to real humans and gotten real respon
 ## Get Started
 
 ### Free — Instant Download (same content as paid)
-1. [Download ai-freelancer-swift-start-v1.1.zip](https://github.com/miloantaeus/swift-start/releases/download/v1.1/ai-freelancer-swift-start-v1.zip)
+1. [Download swift-start-v1.2.zip](https://github.com/miloantaeus/swift-start/releases/download/v1.2/swift-start-v1.1.zip) — 100% free, no signup required
 2. Unzip the toolkit
 3. Read `SKILL.md` first (full product guide)
 4. Read `INSTRUCTIONS.md` (how to use each document)
