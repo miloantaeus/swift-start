@@ -4,7 +4,7 @@
 **AI Freelancer Swift Start Toolkit** — $19
 - GitHub repo: https://github.com/miloantaeus/swift-start
 - Contains: SKILL.md, 4 template files, INSTALL, PRICING, INSTRUCTIONS
-- Version: v1.1 (April 2026)
+- Version: v1.2 (April 2026)
 
 ---
 
