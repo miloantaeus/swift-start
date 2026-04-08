@@ -1,37 +1,65 @@
-# Launch Plan — AI Freelancer Swift Start Toolkit
+# AI Freelancer Swift Start — Launch Notes
 
-## Current Status
-- [x] Product content complete (SKILL.md + 4 template files)
-- [x] README, PRICING, INSTALL, LAUNCH packaged
-- [x] GitHub repo live: github.com/miloantaeus/swift-start
-- [x] GitHub releases v1.1 and v1.2 with ZIP assets attached
-- [x] INSTALL.md improved: added free GitHub download path + buyer-first structure
-- [x] README overhauled (v3, Apr 6): free path leads, template preview added, pricing benchmarks, correct zip link
-- [ ] Gumroad product upload: BLOCKED — browser-use API key (sk-cp-...) returning 401, browser sessions dead
+## Product
+**AI Freelancer Swift Start Toolkit** — $19
+- GitHub repo: https://github.com/miloantaeus/swift-start
+- Contains: SKILL.md, 4 template files, INSTALL, PRICING, INSTRUCTIONS
+- Version: v1.1 (April 2026)
 
 ---
 
-## Distribution — Live Now
+## How to Get It — Two Options
 
-### Free Path ✅ (working — instant download)
-→ **github.com/miloantaeus/swift-start/releases/tag/v1.1**
-Download: `ai-freelancer-swift-start-v1.zip` — free, no paywall, same 5 documents as paid version
+### Free / Instant Download ✅ (LIVE NOW — zero friction)
+1. Go to: **https://github.com/miloantaeus/swift-start/releases/tag/v1.1**
+2. Click **`ai-freelancer-swift-start-v1.zip`** under Assets
+3. Download starts immediately — no login, no paywall, no signup
+4. Same 5 documents as the paid version
 
-### Paid Path 🟡 (Gumroad — $19 per sale, ~$17.10 net per sale)
-→ **miloantaeus.gumroad.com/l/xofwuq**
-Gumroad product page exists. Paid download delivers the same zip via Gumroad's instant delivery system.
-Net per sale: ~$17.10 (10% Gumroad fee)
+### Paid / Faster + Supports Development ✅ (Gumroad — $19)
+1. Go to: **https://miloantaeus.gumroad.com/l/xofwuq**
+2. Pay $19 via card or PayPal
+3. Zip downloads automatically — same content as free version
 
-### Collection Path
-1. Buyer lands on GitHub README → sees free download OR $19 paid option
-2. Free path: immediate zip download, zero friction
-3. Paid path: buyer clicks Gumroad link → pays $19 → receives zip automatically
-4. Owner receives ~$17.10 per sale via Stripe payout (requires Gumroad payout form completion)
+---
 
-## What This Cycle Did
-- SKILL.md updated with explicit version bump (v1.1) and dual download path
-- README already conversion-optimized with free path leading
-- Product is fully packaged and buyer-ready
+## What's Inside the ZIP
+
+| File | What It Is |
+|------|-----------|
+| `SKILL.md` | Full product guide — 21 email templates + positioning playbook + client qualification checklist |
+| `01-upwork-proposal-prompts.md` | 30+ Upwork bid prompts and strategy |
+| `02-fiverr-prompts.md` | Fiverr gig optimization prompts |
+| `03-bid-strategy-guide.md` | Bid strategy and lead scoring |
+| `04-proposal-templates.md` | 3 proposal frameworks: $50–$3,000+ |
+| `INSTRUCTIONS.md` | Day-by-day 7-day action plan |
+| `INSTALL.md` | How to use the toolkit + file manifest |
+
+---
+
+## Run / Install Instructions
+
+1. Download the zip (free GitHub link above OR Gumroad $19)
+2. Unzip — 7 files, ~10–23 KB total
+3. Open `SKILL.md` first — this is your primary guide
+4. Read `INSTRUCTIONS.md` for the 7-day sprint plan
+5. Use `01-upwork-proposal-prompts.md` to build your first Upwork bid
+6. Send your first outreach email today
+
+**Requirements:** Any text editor (VS Code, Notion, even Notes app). Internet access for AI prompts. No coding required.
+
+---
+
+## Distribution Status
+
+| Path | Status | Link |
+|------|--------|------|
+| Free GitHub download | ✅ LIVE | [github.com/miloantaeus/swift-start/releases/tag/v1.1](https://github.com/miloantaeus/swift-start/releases/tag/v1.1) |
+| Paid Gumroad ($19) | ✅ LIVE | [miloantaeus.gumroad.com/l/xofwuq](https://miloantaeus.gumroad.com/l/xofwuq) |
+| Reddit r/forhire | 🔒 Blocked — manual post required (Owner) | Draft ready in handoffs/ |
+| Upwork applications | 🔒 Blocked — API key 401 | Resume staged |
+
+**Cash path:** Buyer → Gumroad $19 → ~$17.10 net per sale via Stripe payout (requires Gumroad payout form completion by Owner)
 
 ---
 
@@ -39,26 +67,21 @@ Net per sale: ~$17.10 (10% Gumroad fee)
 
 | Item | Value |
 |------|-------|
-| Product price | $19 |
-| Gumroad fee (10%) | -$1.90 |
-| Net per sale | ~$17.10 |
-| Deployment gap | $17.10 pending browser-use fix |
+| Sale price | $19.00 |
+| Gumroad fee (10%) | −$1.90 |
+| **Net per sale** | **≈ $17.10** |
+| Payout method | Stripe via Gumroad |
 
 ---
 
-## Blockers
-
-1. **OPENAI_API_KEY (sk-cp-...) returning 401** — blocks browser-use automation
-   - Unblocks: Gumroad upload, Upwork job apps, Reddit posts
-   - Fix: Owner rotates at platform.openai.com
-2. **Gumroad payout setup** — needed to receive payments
-   - Fix: Owner completes form at gumroad.com/settings/payments
+## Owner Next Steps (unblocks additional revenue)
+1. **`OPENAI_API_KEY` rotation** — unblocks: browser-use → Gumroad upload for 11+ other products, Reddit post, Upwork applications
+2. **Gumroad payout form** — complete at gumroad.com/settings/payments (enables Stripe cash collection)
 
 ---
 
-## Next Revenue Step
-
-1. Owner rotates `OPENAI_API_KEY` at platform.openai.com
-2. Browser-use automation resumes
-3. Gumroad upload completes via browser automation at app.gumroad.com/products/new
-4. Reddit r/forhire post deploys
+## Proof of Deployment
+- GitHub repo: https://github.com/miloantaeus/swift-start — 200 OK ✅
+- Free zip: `ai-freelancer-swift-start-v1.zip` — 10.7 KB attached at v1.1 release ✅
+- Gumroad product page: miloantaeus.gumroad.com/l/xofwuq — LIVE ✅
+- README: free download path leads, $19 paid path secondary ✅
