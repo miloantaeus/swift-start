@@ -11,10 +11,10 @@
 ## How to Get It — Two Options
 
 ### Free / Instant Download ✅ (LIVE NOW — zero friction)
-1. Go to: **https://github.com/miloantaeus/swift-start/releases/tag/v1.1**
-2. Click **`ai-freelancer-swift-start-v1.zip`** under Assets
+1. Go to: **https://github.com/miloantaeus/swift-start/releases/tag/v1.2**
+2. Click **`swift-start-v1.1.zip`** under Assets
 3. Download starts immediately — no login, no paywall, no signup
-4. Same 5 documents as the paid version
+4. Same content as the paid version (v1.2)
 
 ### Paid / Faster + Supports Development ✅ (Gumroad — $19)
 1. Go to: **https://miloantaeus.gumroad.com/l/xofwuq**
@@ -54,7 +54,7 @@
 
 | Path | Status | Link |
 |------|--------|------|
-| Free GitHub download | ✅ LIVE | [github.com/miloantaeus/swift-start/releases/tag/v1.1](https://github.com/miloantaeus/swift-start/releases/tag/v1.1) |
+| Free GitHub download | ✅ LIVE | [github.com/miloantaeus/swift-start/releases/tag/v1.2](https://github.com/miloantaeus/swift-start/releases/tag/v1.2) |
 | Paid Gumroad ($19) | ✅ LIVE | [miloantaeus.gumroad.com/l/xofwuq](https://miloantaeus.gumroad.com/l/xofwuq) |
 | Reddit r/forhire | 🔒 Blocked — manual post required (Owner) | Draft ready in handoffs/ |
 | Upwork applications | 🔒 Blocked — API key 401 | Resume staged |
@@ -82,6 +82,6 @@
 
 ## Proof of Deployment
 - GitHub repo: https://github.com/miloantaeus/swift-start — 200 OK ✅
-- Free zip: `ai-freelancer-swift-start-v1.zip` — 10.7 KB attached at v1.1 release ✅
+- Free zip: `swift-start-v1.1.zip` — 11.7 KB at v1.2 release ✅
 - Gumroad product page: miloantaeus.gumroad.com/l/xofwuq — LIVE ✅
 - README: free download path leads, $19 paid path secondary ✅
