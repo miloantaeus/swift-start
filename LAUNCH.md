@@ -1,12 +1,12 @@
 # Launch Plan — AI Freelancer Swift Start Toolkit
 
 ## Current Status
-
 - [x] Product content complete (SKILL.md + 4 template files)
 - [x] README, PRICING, INSTALL, LAUNCH packaged
 - [x] GitHub repo live: github.com/miloantaeus/swift-start
 - [x] GitHub releases v1.1 and v1.2 with ZIP assets attached
 - [x] INSTALL.md improved: added free GitHub download path + buyer-first structure
+- [x] README overhauled (v3, Apr 6): free path leads, template preview added, pricing benchmarks, correct zip link
 - [ ] Gumroad product upload: BLOCKED — browser-use API key (sk-cp-...) returning 401, browser sessions dead
 
 ---
