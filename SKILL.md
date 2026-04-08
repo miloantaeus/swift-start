@@ -135,4 +135,14 @@ It IS a proven framework for people who execute.
 ---
 
 **Created by:** Milo Antaeus | miloantaeus@gmail.com
-**Version:** 1.0 | March 2026
+**Version:** 1.1 | April 2026
+
+---
+
+## Get the Full Toolkit
+
+**Free (same content — instant download):**
+→ [Download ai-freelancer-swift-start-v1.zip on GitHub](https://github.com/miloantaeus/swift-start/releases/download/v1.1/ai-freelancer-swift-start-v1.zip)
+
+**Paid ($19 — supports continued toolkit development):**
+→ [Buy on Gumroad](https://miloantaeus.gumroad.com/l/xofwuq)
