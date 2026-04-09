@@ -5,7 +5,7 @@
 
 ## Try It Free — Download the Complete Toolkit Now
 
-**[📦 Download swift-start-v1.2.zip — 100% Free](https://github.com/miloantaeus/swift-start/releases/download/v1.2/swift-start-v1.1.zip)**
+**[📦 Download swift-start-v1.1.zip — 100% Free](https://github.com/miloantaeus/swift-start/releases/download/v1.2/swift-start-v1.1.zip)**
 
 The zip includes all 5 documents — 21 email templates, proposal frameworks, client qualification checklist, AI prompt library, and positioning playbook. No signup, no paywall.
 
@@ -124,7 +124,7 @@ Everything in this toolkit has been **sent to real humans and gotten real respon
 ## Get Started
 
 ### Free — Instant Download (same content as paid)
-1. [Download swift-start-v1.2.zip](https://github.com/miloantaeus/swift-start/releases/download/v1.2/swift-start-v1.1.zip) — 100% free, no signup required
+1. [Download swift-start-v1.1.zip](https://github.com/miloantaeus/swift-start/releases/download/v1.2/swift-start-v1.1.zip) — 100% free, no signup required
 2. Unzip the toolkit
 3. Read `SKILL.md` first (full product guide)
 4. Read `INSTRUCTIONS.md` (how to use each document)
