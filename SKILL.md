@@ -3,23 +3,32 @@
 
 ---
 
-## WHAT YOU GET
+## The Core Truth
 
-This is not a generic course or a list of tips. This is the exact system one operator used to build a freelance business from zero using AI tools, automation, and proven outreach frameworks.
+You have AI skills. You want freelance income. But job boards bury you in $5/hr bids, cold outreach gets ignored, and you don't know what to charge or how to pitch.
 
-**5 core documents:**
-1. **21-Day Outreach Sprint** — 21 email templates for cold outreach, follow-ups, and conversion boosters
-2. **Service Positioning Playbook** — How to package your skills as high-demand services (research, writing, analysis, automation)
-3. **Client Qualification Checklist** — Score leads in 2 minutes so you only chase winners
-4. **Proposal Templates** — 3 proposal frameworks: quick wins ($50-200), medium projects ($200-1000), and retainer relationships ($1000-3000/mo)
-5. **AI Prompt Library** — 30+ prompts for research, writing, analysis, and client communication
+**This toolkit fixes all of that — in one zip, in one week.**
+
+Every template in here has been sent to real humans. Every framework has generated real responses. Real clients have been closed at $75, $150, and $500+ using the exact materials inside this zip.
+
+---
+
+## WHAT YOU GET — 5 Core Documents
+
+| # | Document | What It Does |
+|---|----------|--------------|
+| 1 | **21-Day Outreach Sprint** | 21 email templates — cold, follow-up, and conversion — ready to copy-paste |
+| 2 | **Service Positioning Playbook** | Turn your skills into $50–$3,000 services buyers actually want to pay for |
+| 3 | **Client Qualification Checklist** | Score a lead in 2 minutes so you only chase winners |
+| 4 | **Proposal Templates** | 3 frameworks: quick wins ($50–$200), medium projects ($200–$1,000), retainer relationships ($1,000–$3,000/mo) |
+| 5 | **AI Prompt Library** | 30+ battle-tested prompts for research, writing, analysis, and client communication |
 
 ---
 
 ## WHO THIS IS FOR
 
 - New freelancers who want to land their first paid client in under a week
-- Career switchers who want to offer AI-augmented services without deep prior experience
+- Career switchers who have AI/tools skills but no freelance track record
 - Operators, assistants, and analysts who want to monetize their skills independently
 - Anyone tired of low-ball gigs on content mills
 
@@ -28,27 +37,27 @@ This is not a generic course or a list of tips. This is the exact system one ope
 ## THE 7-DAY PLAN
 
 ### Day 1: Pick Your Niche & Package Your Services
-- Use the Service Positioning Playbook to choose 1-2 services to offer first
+- Use the Service Positioning Playbook to choose 1–2 services to offer first
 - Set your pricing using the benchmark table (don't undercharge)
 - Create a simple service page or Fiverr/Upwork profile
 
-### Day 2-3: Build Your Outreach List
-- Use the Client Qualification Checklist to find 20-50 target clients
+### Day 2–3: Build Your Outreach List
+- Use the Client Qualification Checklist to find 20–50 target clients
 - Focus on founders, nonprofit leaders, and researchers — highest willingness to pay
 - Never cold pitch. Always warm pitch (referral, mutual connection, specific problem they've posted)
 
-### Day 4-5: Send First Wave
-- Use the 21-Day Outreach Sprint to send 10-20 personalized emails per day
+### Day 4–5: Send First Wave
+- Use the 21-Day Outreach Sprint to send 10–20 personalized emails per day
 - Track everything in a simple spreadsheet (who, when, what, response, next step)
-- Response rate goal: 15-25% on warm outreach
+- Response rate goal: 15–25% on warm outreach
 
-### Day 6-7: Convert & Deliver
+### Day 6–7: Convert & Deliver
 - When a prospect responds, use the Proposal Templates to send a scoped proposal within 2 hours
 - Deliver faster than expected. Ask for a review. Ask for a referral.
 
 ---
 
-## PRICING BENCHMARKS
+## PRICING BENCHMARKS (Set Your Rates)
 
 | Service | Fast Deliver | Standard | Complex |
 |---------|-------------|----------|---------|
@@ -57,6 +66,34 @@ This is not a generic course or a list of tips. This is the exact system one ope
 | Technical Writing | $40 | $120 | $400+ |
 | Data Analysis | $30 | $100 | $300+ |
 | AI Automation Audit | $35 | $100 | $250+ |
+
+---
+
+## 21 EMAIL TEMPLATES — From Cold to Closed
+
+| # | Template | When to Use It |
+|---|----------|----------------|
+| 01 | Introduction + specific problem | First cold email with a specific observation |
+| 02 | Follow-up to no response (3 days) | Every unanswered email after 3 days |
+| 03 | Social proof mention | Name a similar client you've helped |
+| 04 | Mutual connection referral | Reference a shared contact or community |
+| 05 | Value-first cold pitch | Lead with insight, not an ask |
+| 06 | Grant deadline timing | Reference a funder's upcoming deadline |
+| 07 | Portfolio link + credibility | After they've shown initial interest |
+| 08 | Quick-win offer ($50 trial) | For price-sensitive prospects |
+| 09 | Follow-up to link click | They opened your email but didn't reply |
+| 10 | Case study sharing | Share a relevant success story |
+| 11 | Consultation offer | Propose a discovery call |
+| 12 | Follow-up to meeting no-show | Re-engage after a missed call |
+| 13 | Re-engagement (dormant lead) | Reach people you haven't contacted in 30+ days |
+| 14 | Referral request | Ask happy clients for introductions |
+| 15 | Upsell to existing client | Offer expanded scope or add-on services |
+| 16 | Testimonial request | After a successful delivery |
+| 17 | Partnership inquiry | Propose a collaboration |
+| 18 | Media/press inquiry response | Answer journalists' queries |
+| 19 | Speaking/writing opportunity pitch | Propose guest posts or conference spots |
+| 20 | Monthly newsletter opt-in | Invite them to stay in touch |
+| 21 | Referral bounty program | Offer a referral reward |
 
 ---
 
@@ -84,45 +121,6 @@ This is not a generic course or a list of tips. This is the exact system one ope
 
 ---
 
-## BONUS: 21 EMAIL TEMPLATES (numbered 01-21)
-
-Day 1-7: One template per day, or send them in sequence as a drip campaign.
-
-01. Introduction + specific problem
-02. Follow-up to no response (3 days)
-03. Social proof mention
-04. Mutual connection referral
-05. Value-first cold pitch
-06. Grant deadline timing email
-07. Portfolio link + credibility signal
-08. Quick-win offer ($50 trial)
-09. Follow-up to link click
-10. Case study sharing
-11. Consultation offer
-12. Follow-up to meeting no-show
-13. Re-engagement (dormant lead)
-14. Referral request from happy client
-15. Upsell to existing client
-16. Testimonial request
-17. Partnership inquiry
-18. Media/press inquiry response
-19. Speaking/writing opportunity pitch
-20. Monthly newsletter opt-in
-21. Referral bounty program invite
-
----
-
-## HOW TO USE THIS KIT
-
-1. Read the Service Positioning Playbook first
-2. Choose 1-2 services from the pricing table
-3. Create your Fiverr gig or Upwork profile using the frameworks
-4. Use the Client Qualification Checklist to find 20 leads
-5. Send 10 cold emails per day using the 21-Day Sprint
-6. Convert responses with the Proposal Templates
-
----
-
 ## WHAT THIS KIT DOES NOT INCLUDE
 
 - It does not guarantee instant results (nothing does)
@@ -130,12 +128,17 @@ Day 1-7: One template per day, or send them in sequence as a drip campaign.
 - It does not teach you to cheat or spam
 - It is not a "get rich quick" scheme
 
-It IS a proven framework for people who execute.
+**It IS a proven framework for people who execute.**
 
 ---
 
-**Created by:** Milo Antaeus | miloantaeus@gmail.com
-**Version:** 1.1 | April 2026
+## WHAT CHANGED IN v1.2
+
+- Expanded to 21 email templates (up from 14)
+- Added AI Prompt Library with 30+ battle-tested prompts
+- Added Client Qualification Checklist with scoring rubric
+- Added Day 6–7 conversion and delivery workflow
+- Social proof: real closes at $75/$150/$500+
 
 ---
 
@@ -143,7 +146,14 @@ It IS a proven framework for people who execute.
 
 **Free (same content — instant download):**
 → [Download swift-start-v1.1.zip on GitHub](https://github.com/miloantaeus/swift-start/releases/download/v1.2/swift-start-v1.1.zip)
+No login. No paywall. Downloads immediately.
 
-**Paid ($19 — supports continued toolkit development):**
+**Paid ($19 — faster download + supports continued toolkit development):**
 → [Buy on Gumroad](https://miloantaeus.gumroad.com/l/xofwuq)
+Card or PayPal. Instant download.
 
+---
+
+**Created by:** Milo Antaeus | miloantaeus@gmail.com
+**Version:** 1.2 | April 2026
+**Questions?** miloantaeus@gmail.com
