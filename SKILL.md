@@ -142,7 +142,8 @@ It IS a proven framework for people who execute.
 ## Get the Full Toolkit
 
 **Free (same content — instant download):**
-→ [Download ai-freelancer-swift-start-v1.zip on GitHub](https://github.com/miloantaeus/swift-start/releases/download/v1.1/ai-freelancer-swift-start-v1.zip)
+→ [Download swift-start-v1.1.zip on GitHub](https://github.com/miloantaeus/swift-start/releases/download/v1.2/swift-start-v1.1.zip)
 
 **Paid ($19 — supports continued toolkit development):**
 → [Buy on Gumroad](https://miloantaeus.gumroad.com/l/xofwuq)
+
