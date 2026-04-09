@@ -12,7 +12,7 @@
 
 ### Free / Instant Download ✅ (LIVE NOW — zero friction)
 1. Go to: **https://github.com/miloantaeus/swift-start/releases/tag/v1.2**
-2. Click **`swift-start-v1.1.zip`** under Assets (10.7 KB)
+2. Click **`swift-start-v1.2.zip`** under Assets (10.7 KB)
 3. Download starts immediately — no login, no paywall, no signup
 4. Same content as the paid version (v1.2)
 

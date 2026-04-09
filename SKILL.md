@@ -145,7 +145,7 @@ Every template in here has been sent to real humans. Every framework has generat
 ## Get the Full Toolkit
 
 **Free (same content — instant download):**
-→ [Download swift-start-v1.1.zip on GitHub](https://github.com/miloantaeus/swift-start/releases/download/v1.2/swift-start-v1.1.zip)
+→ [Download swift-start-v1.2.zip on GitHub](https://github.com/miloantaeus/swift-start/releases/download/v1.2/swift-start-v1.2.zip)
 No login. No paywall. Downloads immediately.
 
 **Paid ($19 — faster download + supports continued toolkit development):**
