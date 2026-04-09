@@ -28,4 +28,4 @@ These benchmarks help you position your own freelance services (included in tool
 
 - **Per sale:** $19 minus Gumroad's 10% fee = ~$17.10 net
 - **Payout:** Stripe connected to Gumroad account
-- **Next:** Upload zip to Gumroad, publish at $19
+- **Status:** Product live at miloantaeus.gumroad.com/l/xofwuq ✅
