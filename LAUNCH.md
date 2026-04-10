@@ -12,7 +12,7 @@
 
 ### Free / Instant Download ✅ (LIVE NOW — zero friction)
 1. Go to: **https://github.com/miloantaeus/swift-start/releases/tag/v1.2**
-2. Click **`swift-start-v1.2.zip`** under Assets (10.7 KB)
+2. Click **`swift-start-v1.2.zip`** under Assets (~9.8 KB)
 3. Download starts immediately — no login, no paywall, no signup
 4. Same content as the paid version (v1.2)
 
@@ -82,6 +82,6 @@
 
 ## Proof of Deployment
 - GitHub repo: https://github.com/miloantaeus/swift-start — 200 OK ✅
-- Free zip: `swift-start-v1.1.zip` — 11.7 KB at v1.2 release ✅
+- Free zip: `swift-start-v1.2.zip` — 9.8 KB at v1.2 release ✅
 - Gumroad product page: miloantaeus.gumroad.com/l/xofwuq — LIVE ✅
 - README: free download path leads, $19 paid path secondary ✅
