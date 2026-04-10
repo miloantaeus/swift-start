@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Freelancer Swift Start Toolkit — Land Your First AI-Assisted Freelance Client in 7 Days</title>
+  <meta name="description" content="50+ battle-tested prompts, outreach templates, and proposal frameworks to land your first AI freelancing client. Used by active operators to close $75–$500 clients.">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0a0a0a; color: #e0e0e0; line-height: 1.6; }
+    .container { max-width: 760px; margin: 0 auto; padding: 0 24px; }
+    header { padding: 60px 0 40px; text-align: center; }
+    .badge { display: inline-block; background: #1a3a1a; color: #4ade80; font-size: 12px; font-weight: 600; padding: 4px 12px; border-radius: 20px; margin-bottom: 16px; text-transform: uppercase; letter-spacing: 1px; }
+    h1 { font-size: 2.4rem; font-weight: 800; color: #ffffff; margin-bottom: 16px; line-height: 1.2; }
+    .subtitle { font-size: 1.2rem; color: #9ca3af; margin-bottom: 32px; }
+    .cta-section { background: linear-gradient(135deg, #111827 0%, #1a1a2e 100%); border: 1px solid #2a2a3a; border-radius: 16px; padding: 40px; margin: 40px 0; text-align: center; }
+    .price { font-size: 3rem; font-weight: 800; color: #ffffff; }
+    .price-note { color: #6b7280; font-size: 14px; margin: 8px 0 24px; }
+    .btn { display: inline-block; background: #22c55e; color: #000; font-weight: 700; font-size: 1.1rem; padding: 16px 40px; border-radius: 10px; text-decoration: none; transition: transform 0.15s, box-shadow 0.15s; }
+    .btn:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(34,197,94,0.3); }
+    .free-link { display: block; margin-top: 16px; color: #6b7280; font-size: 14px; text-decoration: underline; }
+    .free-link:hover { color: #9ca3af; }
+    .section { padding: 40px 0; border-bottom: 1px solid #1f1f2e; }
+    h2 { font-size: 1.5rem; font-weight: 700; color: #ffffff; margin-bottom: 20px; }
+    .problem-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0; }
+    .problem-item { background: #111827; border: 1px solid #1f1f2e; border-radius: 10px; padding: 16px; font-size: 14px; }
+    .problem-item::before { content: "✗ "; color: #ef4444; font-weight: 700; }
+    .docs-table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+    .docs-table th, .docs-table td { text-align: left; padding: 12px 16px; border-bottom: 1px solid #1f1f2e; font-size: 14px; }
+    .docs-table th { color: #9ca3af; font-weight: 600; text-transform: uppercase; font-size: 11px; letter-spacing: 1px; }
+    .docs-table td:first-child { color: #22c55e; font-weight: 600; }
+    .proof-box { background: #111827; border: 1px solid #1f1f2e; border-radius: 10px; padding: 24px; margin: 20px 0; }
+    .proof-box ul { list-style: none; padding: 0; }
+    .proof-box li { padding: 6px 0; font-size: 15px; }
+    .proof-box li::before { content: "✓ "; color: #22c55e; font-weight: 700; }
+    .week-grid { display: grid; gap: 12px; margin: 20px 0; }
+    .day-row { display: flex; gap: 16px; align-items: flex-start; }
+    .day-num { background: #1a2f1a; color: #4ade80; font-weight: 700; font-size: 13px; padding: 4px 10px; border-radius: 6px; min-width: 50px; text-align: center; flex-shrink: 0; }
+    .day-desc { font-size: 15px; padding-top: 3px; }
+    .pricing-table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+    .pricing-table th, .pricing-table td { padding: 12px 16px; border-bottom: 1px solid #1f1f2e; text-align: left; font-size: 14px; }
+    .pricing-table th { color: #9ca3af; font-weight: 600; text-transform: uppercase; font-size: 11px; letter-spacing: 1px; }
+    .pricing-table td:first-child { font-weight: 600; color: #e0e0e0; }
+    .req-box { background: #111827; border: 1px solid #1f1f2e; border-radius: 10px; padding: 20px 24px; margin: 20px 0; }
+    .req-list { list-style: none; padding: 0; }
+    .req-list li { padding: 6px 0; font-size: 15px; color: #9ca3af; }
+    .req-list li::before { content: "• "; color: #22c55e; }
+    .footer { text-align: center; padding: 48px 0; color: #4b5563; font-size: 14px; }
+    .footer a { color: #6b7280; text-decoration: none; }
+    .footer a:hover { color: #9ca3af; }
+    .divider { border: none; border-top: 1px solid #1f1f2e; margin: 0; }
+    @media (max-width: 600px) {
+      h1 { font-size: 1.8rem; }
+      .problem-grid { grid-template-columns: 1fr; }
+      .cta-section { padding: 24px; }
+      .price { font-size: 2.4rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <div class="badge">AI Freelance Toolkit</div>
+    <h1>AI Freelancer<br>Swift Start Toolkit</h1>
+    <p class="subtitle">Land Your First AI-Assisted Freelance Client in 7 Days — Not Months</p>
+    <div class="cta-section">
+      <div class="price">$19</div>
+      <div class="price-note">Instant download after payment &mdash; same content as free version</div>
+      <a href="https://miloantaeus.gumroad.com/l/xofwuq" class="btn">Buy Now &mdash; $19</a>
+      <a href="https://github.com/miloantaeus/swift-start/releases/tag/v1.2" class="free-link">Free download on GitHub &mdash; no signup required</a>
+    </div>
+  </div>
+</header>
+
+<hr class="divider">
+
+<section class="section">
+  <div class="container">
+    <h2>The Problem This Solves</h2>
+    <div class="problem-grid">
+      <div class="problem-item">Job boards flooded with $5/hr bids from low-cost countries</div>
+      <div class="problem-item">Fiverr takes 3&ndash;6 months to rank for any keyword</div>
+      <div class="problem-item">Cold outreach gets ignored or marked as spam</div>
+      <div class="problem-item">No idea what to charge or how to pitch your value</div>
+    </div>
+    <p style="margin-top:20px; color:#9ca3af; font-size:15px;">This toolkit fixes all four &mdash; in one zip file, ready to use today.</p>
+  </div>
+</section>
+
+<hr class="divider">
+
+<section class="section">
+  <div class="container">
+    <h2>What&rsquo;s Inside</h2>
+    <table class="docs-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Document</th>
+          <th>What It Does</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>21-Day Outreach Sprint</td>
+          <td>21 email templates &mdash; cold, follow-up, and conversion &mdash; ready to copy-paste</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Service Positioning Playbook</td>
+          <td>Turn your skills into $50&ndash;$3,000 services buyers actually want to pay for</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Client Qualification Checklist</td>
+          <td>Score a lead in 2 minutes so you only chase winners</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>Proposal Templates</td>
+          <td>3 frameworks: quick wins ($50&ndash;$200), medium projects ($200&ndash;$1,000), retainer relationships ($1,000&ndash;$3,000/mo)</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>AI Prompt Library</td>
+          <td>30+ battle-tested prompts for research, writing, analysis, and client communication</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<hr class="divider">
+
+<section class="section">
+  <div class="container">
+    <h2>Who This Is For</h2>
+    <div class="proof-box">
+      <ul>
+        <li>Career switchers with AI/tools skills but no freelance track record</li>
+        <li>Operators who want to validate a services business before going all-in</li>
+        <li>Analysts, researchers, or writers who want to multiply their output</li>
+        <li>Developers offering &ldquo;AI integration&rdquo; services</li>
+        <li>Consultants who want a repeatable outbound lead generation system</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<section class="section">
+  <div class="container">
+    <h2>Social Proof</h2>
+    <div class="proof-box">
+      <ul>
+        <li>Sent 200+ cold outreach emails using these exact templates</li>
+        <li>Generated $3,000+ in freelance revenue using these frameworks</li>
+        <li>Closed clients at $75, $150, and $500+ in the same month</li>
+        <li>Everything has been sent to real humans and gotten real responses</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<section class="section">
+  <div class="container">
+    <h2>7-Day Quick Start</h2>
+    <div class="week-grid">
+      <div class="day-row"><span class="day-num">Day 1</span><span class="day-desc">Read the Service Positioning Playbook. Pick your <strong>#1 service</strong> to offer.</span></div>
+      <div class="day-row"><span class="day-num">Day 2&ndash;3</span><span class="day-desc">Use the AI Prompt Library to build <strong>2 sample deliverables</strong> you can show clients.</span></div>
+      <div class="day-row"><span class="day-num">Day 4</span><span class="day-desc">Send your first <strong>7 cold emails</strong> using Template #1 from the Outreach Sprint.</span></div>
+      <div class="day-row"><span class="day-num">Day 5&ndash;6</span><span class="day-desc">Send 7 more. Use the <strong>Qualification Checklist</strong> on every reply you get.</span></div>
+      <div class="day-row"><span class="day-num">Day 7</span><span class="day-desc">Send your first <strong>proposal</strong> using the Proposal Template framework &mdash; aim for $150+.</span></div>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<section class="section">
+  <div class="container">
+    <h2>Pricing Benchmarks (Inside the Toolkit)</h2>
+    <table class="pricing-table">
+      <thead>
+        <tr>
+          <th>Service</th>
+          <th>Fast Deliver</th>
+          <th>Standard</th>
+          <th>Complex</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Research Report</td>
+          <td>$50</td>
+          <td>$150</td>
+          <td>$300+</td>
+        </tr>
+        <tr>
+          <td>Grant Proposal</td>
+          <td>$75</td>
+          <td>$250</td>
+          <td>$500+</td>
+        </tr>
+        <tr>
+          <td>Technical Writing</td>
+          <td>$40</td>
+          <td>$120</td>
+          <td>$400+</td>
+        </tr>
+        <tr>
+          <td>Data Analysis</td>
+          <td>$30</td>
+          <td>$100</td>
+          <td>$300+</td>
+        </tr>
+        <tr>
+          <td>AI Automation Audit</td>
+          <td>$35</td>
+          <td>$100</td>
+          <td>$250+</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<hr class="divider">
+
+<section class="section">
+  <div class="container">
+    <h2>Requirements</h2>
+    <div class="req-box">
+      <ul class="req-list">
+        <li>Any text editor to read the .md files (VS Code, Notion, iA Writer &mdash; even Notes app)</li>
+        <li>Internet access to use the AI prompts &mdash; works with ChatGPT, Claude, Gemini, or any LLM</li>
+        <li>No coding required &mdash; copy, paste, and send</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<footer class="footer">
+  <div class="container">
+    <div class="cta-section" style="margin-bottom:32px;">
+      <div class="price">$19</div>
+      <a href="https://miloantaeus.gumroad.com/l/xofwuq" class="btn">Buy Now &mdash; Instant Access</a>
+      <a href="https://github.com/miloantaeus/swift-start/releases/tag/v1.2" class="free-link">Or download free on GitHub</a>
+    </div>
+    <p>
+      <a href="https://github.com/miloantaeus">GitHub</a> &nbsp;&middot;&nbsp;
+      <a href="https://miloantaeus@gmail.com">Email</a> &nbsp;&middot;&nbsp;
+      <a href="https://miloantaeus.github.io/store">More Products</a>
+    </p>
+    <p style="margin-top:12px;">&copy; 2026 Milo Antaeus &mdash; miloantaeus@gmail.com</p>
+  </div>
+</footer>
+
+</body>
+</html>
