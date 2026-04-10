@@ -6,8 +6,8 @@
 → [miloantaeus.gumroad.com/l/xofwuq](https://miloantaeus.gumroad.com/l/xofwuq)
 
 **Free — GitHub release (same content, no paywall):**
-→ [github.com/miloantaeus/swift-start/releases/tag/v1.1](https://github.com/miloantaeus/swift-start/releases/tag/v1.1)
-Click "ai-freelancer-swift-start-v1.zip" to download free.
+→ [github.com/miloantaeus/swift-start/releases/tag/v1.2](https://github.com/miloantaeus/swift-start/releases/tag/v1.2)
+Click **`swift-start-v1.2.zip`** under Assets (~9.8 KB) to download free.
 
 ---
 
