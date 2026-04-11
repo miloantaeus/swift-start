@@ -3,13 +3,11 @@
 
 ---
 
-## Try It Free — Download the Complete Toolkit Now
+## Buy Now — $19 Instant Download
 
-**[📦 Download swift-start-v1.2.zip — 100% Free](https://github.com/miloantaeus/swift-start/releases/download/v1.2/swift-start-v1.2.zip)**
+**[💳 Purchase on Gumroad — $19](https://miloantaeus.gumroad.com/l/xofwuq)**
 
-The zip includes all 5 documents — 21 email templates, proposal frameworks, client qualification checklist, AI prompt library, and positioning playbook. No signup, no paywall.
-
-**Like it?** [Upgrade to the $19 Gumroad version](https://miloantaeus.gumroad.com/l/xofwuq) — same content, faster download, supports continued toolkit development.
+All 5 documents included — 21 email templates, proposal frameworks, client qualification checklist, AI prompt library, and positioning playbook. Instant delivery after payment.
 
 ---
 
@@ -123,25 +121,20 @@ Everything in this toolkit has been **sent to real humans and gotten real respon
 
 ## Get Started
 
-### Free — Instant Download (same content as paid)
-1. [Download swift-start-v1.2.zip](https://github.com/miloantaeus/swift-start/releases/download/v1.2/swift-start-v1.2.zip) — 100% free, no signup required
+### $19 — Instant Download via Gumroad
+1. [Buy on Gumroad](https://miloantaeus.gumroad.com/l/xofwuq) — instant download
 2. Unzip the toolkit
 3. Read `SKILL.md` first (full product guide)
 4. Read `INSTRUCTIONS.md` (how to use each document)
 5. Send your first outreach email today
-
-### Paid — Faster Download + Supports Development ($19)
-[Buy on Gumroad](https://miloantaeus.gumroad.com/l/xofwuq) — instant download, same 5 documents included.
-
-*(Gumroad takes a 10% fee — ~$17.10 net per sale)*
 
 ---
 
 ## Product Details
 
 **Format:** PDF-ready Markdown + fillable templates
-**Delivery:** Instant download (GitHub free or Gumroad paid)
-**Price:** $19 via Gumroad | Free via GitHub
+**Delivery:** Instant download via Gumroad
+**Price:** $19 via Gumroad
 **Version:** 1.2 | April 2026
 **Purchase:** [miloantaeus.gumroad.com/l/xofwuq](https://miloantaeus.gumroad.com/l/xofwuq)
 
