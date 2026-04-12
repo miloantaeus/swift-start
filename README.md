@@ -125,22 +125,24 @@ Everything in this toolkit has been **sent to real humans and gotten real respon
 
 ## Get Started
 
-### $19 — Instant Download via Gumroad
-1. [Buy on Gumroad](https://miloantaeus.gumroad.com/l/xofwuq) — instant download
+### $19 — Instant Download via PayPal
+1. [Buy via PayPal ($19)](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=miloantaeus@gmail.com&item_name=AI+Freelancer+Swift+Start+Toolkit&amount=19.00&currency_code=USD&return=https://miloantaeus.github.io/store/thank-you.html?product=AI+Freelancer+Swift+Start+Toolkit&cancel_return=https://miloantaeus.github.io/store/&rm=1) — instant redirect to download
 2. Unzip the toolkit
 3. Read `SKILL.md` first (full product guide)
 4. Read `INSTRUCTIONS.md` (how to use each document)
 5. Send your first outreach email today
+
+Also on [Gumroad ($19)](https://miloantaeus.gumroad.com/l/xofwuq) (payout setup pending).
 
 ---
 
 ## Product Details
 
 **Format:** PDF-ready Markdown + fillable templates
-**Delivery:** Instant download via Gumroad
-**Price:** $19 via Gumroad
+**Delivery:** Instant download via PayPal (auto-redirect after payment)
+**Price:** $19
 **Version:** 1.2 | April 2026
-**Purchase:** [miloantaeus.gumroad.com/l/xofwuq](https://miloantaeus.gumroad.com/l/xofwuq)
+**Purchase:** [PayPal ($19)](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=miloantaeus@gmail.com&item_name=AI+Freelancer+Swift+Start+Toolkit&amount=19.00&currency_code=USD&return=https://miloantaeus.github.io/store/thank-you.html?product=AI+Freelancer+Swift+Start+Toolkit&cancel_return=https://miloantaeus.github.io/store/&rm=1) · [Gumroad](https://miloantaeus.gumroad.com/l/xofwuq)
 
 ---
 
