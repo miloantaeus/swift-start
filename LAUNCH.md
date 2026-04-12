@@ -8,18 +8,12 @@
 
 ---
 
-## How to Get It — Two Options
+## How to Get It
 
-### Free / Instant Download ✅ (LIVE NOW — zero friction)
-1. Go to: **https://github.com/miloantaeus/swift-start/releases/tag/v1.2**
-2. Click **`swift-start-v1.2.zip`** under Assets (~9.8 KB)
-3. Download starts immediately — no login, no paywall, no signup
-4. Same content as the paid version (v1.2)
-
-### Paid / Faster + Supports Development ✅ (Gumroad — $19)
+**Instant download via Gumroad ($19):**
 1. Go to: **https://miloantaeus.gumroad.com/l/xofwuq**
 2. Pay $19 via card or PayPal
-3. Zip downloads automatically — same content as free version
+3. Zip downloads automatically
 
 ---
 
@@ -39,7 +33,7 @@
 
 ## Run / Install Instructions
 
-1. Download the zip (free GitHub link above OR Gumroad $19)
+1. Download the zip from Gumroad ($19)
 2. Unzip — 7 files, ~10–23 KB total
 3. Open `SKILL.md` first — this is your primary guide
 4. Read `INSTRUCTIONS.md` for the 7-day sprint plan
@@ -54,10 +48,9 @@
 
 | Path | Status | Link |
 |------|--------|------|
-| Free GitHub download | ✅ LIVE | [github.com/miloantaeus/swift-start/releases/tag/v1.2](https://github.com/miloantaeus/swift-start/releases/tag/v1.2) |
-| Paid Gumroad ($19) | ✅ LIVE | [miloantaeus.gumroad.com/l/xofwuq](https://miloantaeus.gumroad.com/l/xofwuq) |
+| Gumroad ($19) | ✅ LIVE | [miloantaeus.gumroad.com/l/xofwuq](https://miloantaeus.gumroad.com/l/xofwuq) |
 | Reddit r/forhire | 🔒 Blocked — manual post required (Owner) | Draft ready in handoffs/ |
-| Upwork applications | 🔒 Blocked — API key 401 | Resume staged |
+| Upwork applications | 🔒 Blocked — browser login required | Resume staged |
 
 **Cash path:** Buyer → Gumroad $19 → ~$17.10 net per sale via Stripe payout (requires Gumroad payout form completion by Owner)
 
@@ -75,13 +68,12 @@
 ---
 
 ## Owner Next Steps (unblocks additional revenue)
-1. **`OPENAI_API_KEY` rotation** — unblocks: browser-use → Gumroad upload for 11+ other products, Reddit post, Upwork applications
-2. **Gumroad payout form** — complete at gumroad.com/settings/payments (enables Stripe cash collection)
+1. **Gumroad payout form** — complete at gumroad.com/settings/payments (enables Stripe cash collection for all 7 products)
+2. **Browser login** — log into Upwork in Milo browser lane (enables proposal submissions)
 
 ---
 
 ## Proof of Deployment
-- GitHub repo: https://github.com/miloantaeus/swift-start — 200 OK ✅
-- Free zip: `swift-start-v1.2.zip` — 9.8 KB at v1.2 release ✅
 - Gumroad product page: miloantaeus.gumroad.com/l/xofwuq — LIVE ✅
-- README: free download path leads, $19 paid path secondary ✅
+- GitHub repo: https://github.com/miloantaeus/swift-start — 200 OK ✅
+- Landing page: all CTAs point to Gumroad $19 (no free leaks) ✅
