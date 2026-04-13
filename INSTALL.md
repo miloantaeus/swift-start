@@ -2,7 +2,7 @@
 
 ## Get the Toolkit
 
-**Instant download via Gumroad ($19):**
+**Instant download via PayPal ($19):** [oelor.github.io/store](https://oelor.github.io/store/ai-freelancer-swift-start.html)
 → [miloantaeus.gumroad.com/l/xofwuq](https://miloantaeus.gumroad.com/l/xofwuq)
 
 ---
