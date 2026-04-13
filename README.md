@@ -132,7 +132,7 @@ Everything in this toolkit has been **sent to real humans and gotten real respon
 4. Read `INSTRUCTIONS.md` (how to use each document)
 5. Send your first outreach email today
 
-Also on [Gumroad ($19)](https://miloantaeus.gumroad.com/l/xofwuq) (payout setup pending).
+Also on [Gumroad ($19)](https://miloantaeus.gumroad.com/l/xofwuq).
 
 ---
 
@@ -143,6 +143,12 @@ Also on [Gumroad ($19)](https://miloantaeus.gumroad.com/l/xofwuq) (payout setup 
 **Price:** $19
 **Version:** 1.2 | April 2026
 **Purchase:** [PayPal ($19)](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=miloantaeus@gmail.com&item_name=AI+Freelancer+Swift+Start+Toolkit&amount=19.00&currency_code=USD&return=https://oelor.github.io/store/thank-you.html?product=AI+Freelancer+Swift+Start+Toolkit&cancel_return=https://oelor.github.io/store/&rm=1) · [Gumroad](https://miloantaeus.gumroad.com/l/xofwuq)
+
+---
+
+## 7-Day Money-Back Guarantee
+
+If this toolkit doesn't help you send your first outreach email within 7 days, email miloantaeus@gmail.com for a full refund. No questions asked.
 
 ---
 

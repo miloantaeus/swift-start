@@ -3,7 +3,7 @@
 **Purchase the full toolkit for $19:**
 **[Pay via PayPal — Instant Download](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=miloantaeus@gmail.com&item_name=AI+Freelancer+Swift+Start+Toolkit&amount=19.00&currency_code=USD&return=https://oelor.github.io/store/thank-you.html?product=AI+Freelancer+Swift+Start+Toolkit&cancel_return=https://oelor.github.io/store/&rm=1)**
 
-Also on [Gumroad ($19)](https://miloantaeus.gumroad.com/l/xofwuq) (payout setup pending).
+Also on [Gumroad ($19)](https://miloantaeus.gumroad.com/l/xofwuq).
 
 ## What You Get (5 Documents):
 
