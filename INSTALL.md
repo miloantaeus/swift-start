@@ -2,7 +2,7 @@
 
 ## Get the Toolkit
 
-**Instant download via PayPal ($19):** [oelor.github.io/store](https://oelor.github.io/store/ai-freelancer-swift-start.html)
+**Instant download via PayPal ($19):** [store-v2-khaki.vercel.app](https://store-v2-khaki.vercel.app/ai-freelancer-swift-start-toolkit.html)
 → [miloantaeus.gumroad.com/l/xofwuq](https://miloantaeus.gumroad.com/l/xofwuq)
 
 ---

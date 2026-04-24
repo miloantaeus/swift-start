@@ -11,7 +11,7 @@
 ## How to Get It
 
 **Option 1 — PayPal Instant Download ($19) [PRIMARY]:**
-1. Go to: **[Pay $19 via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=miloantaeus@gmail.com&item_name=AI+Freelancer+Swift+Start+Toolkit&amount=19.00&currency_code=USD&return=https://oelor.github.io/store/thank-you.html?product=AI+Freelancer+Swift+Start+Toolkit&cancel_return=https://oelor.github.io/store/&rm=1)**
+1. Go to: **[Pay $19 via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=miloantaeus@gmail.com&item_name=AI+Freelancer+Swift+Start+Toolkit&amount=19.00&currency_code=USD&return=https://store-v2-khaki.vercel.app/thank-you.html?product=AI+Freelancer+Swift+Start+Toolkit&cancel_return=https://store-v2-khaki.vercel.app/&rm=1)**
 2. Pay $19 via card or PayPal balance
 3. Redirected to instant download page immediately
 
@@ -53,7 +53,7 @@
 
 | Path | Status | Link |
 |------|--------|------|
-| PayPal store ($19) | ✅ LIVE | [oelor.github.io/store](https://oelor.github.io/store/) |
+| PayPal store ($19) | ✅ LIVE | [store-v2-khaki.vercel.app](https://store-v2-khaki.vercel.app/) |
 | Gumroad ($19) | ✅ LIVE (payouts owner-blocked) | [miloantaeus.gumroad.com/l/xofwuq](https://miloantaeus.gumroad.com/l/xofwuq) |
 | Reddit r/forhire | 🔒 Blocked — manual post required (Owner) | Draft ready in handoffs/ |
 | Upwork applications | 🔒 Blocked — browser login required | Resume staged |
@@ -81,7 +81,7 @@
 ---
 
 ## Proof of Deployment
-- PayPal store: oelor.github.io/store — LIVE ✅ (PayPal checkout, zero owner dependency)
+- PayPal store: store-v2-khaki.vercel.app — LIVE ✅ (PayPal checkout, zero owner dependency)
 - Gumroad product page: miloantaeus.gumroad.com/l/xofwuq — LIVE ✅ (payouts owner-blocked)
 - GitHub repo: https://github.com/miloantaeus/swift-start — 200 OK ✅
 - Landing page: all CTAs point to PayPal $19 (no free leaks) ✅
